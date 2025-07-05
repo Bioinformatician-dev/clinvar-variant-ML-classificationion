@@ -40,7 +40,7 @@ We explore a variety of statistical and ML techniques to understand patterns in 
 ```bash
 variant-classification/
 ├── data/
-│   └── clinvar_conflicting.csv        # Dataset 
+│   └──dataset.py       # Dataset to downlowd and unzip
 ├── notebooks/
 │   └── 01_exploratory_analysis.ipynb  # EDA and data visualization
 │   └── 02_model_training.ipynb        # Classifier training and evaluation               
