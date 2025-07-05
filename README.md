@@ -36,6 +36,8 @@ We explore a variety of statistical and ML techniques to understand patterns in 
 
 
 ## 📁 Project Structure
+
+```bash
 variant-classification/
 ├── data/
 │   └── clinvar_conflicting.csv        # Dataset 
@@ -48,4 +50,4 @@ variant-classification/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
-
+```
