@@ -1,1 +1,1 @@
-# clinvar-variant-ML-classification
+# variant-classification
