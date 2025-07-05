@@ -48,6 +48,5 @@ variant-classification/
 │   └── figures/                       # Plots and figures
 │       └── model_accuracy.png
 ├── README.md
-├── requirements.txt
-└── LICENSE
+
 ```
